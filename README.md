@@ -21,7 +21,7 @@ Installation d'un environnement LAMP avec Docker.
 ## Accéder à la console dans le conteneur principal :  
 1. Ouvrir un autre onglet de votre terminal, et accéder à la console de votre conteneur principal :  
 `$ docker exec -it docker_lamp_www bash`  
-`$ cd app`  
+`$ cd app`
 
 ## Utilisation  
 Dans votre navigateur :  
